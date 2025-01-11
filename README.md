@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently working on Terralogic LLC, where I develop and maintain advanced web applications, specializing in React and Next.js frameworks. My focus is on creating user-friendly interfaces and optimizing performance.
-🌱 I’m currently learning Nodejs and Advanced TypeScript to enhance my backend integration skills and improve the efficiency of my applications.
-👯 I’m looking to collaborate on open-source projects related to web development or creating reusable components for React ecosystems.
-🤔 I’m looking for help with contributing to large-scale open-source libraries and exploring best practices in scalable application architecture.
-💬 Ask me about modern frontend frameworks, building responsive designs with Tailwind CSS, or optimizing React applications for performance.
-📫 How to reach me: You can contact me at thiensinh127@gmail.com or connect with me on LinkedIn (add your LinkedIn profile link).
-😄 Pronouns: He/Him
-⚡ Fun fact: I’m a tech enthusiast who loves solving complex coding challenges—and I can probably debug code faster than I can decide what to order for lunch!
+- 🔭 I’m currently working on Terralogic LLC, where I develop and maintain advanced web applications, specializing in React and Next.js frameworks. My focus is on creating user-friendly interfaces and optimizing performance. 
+- 🌱 I’m currently learning Nodejs and Advanced TypeScript to enhance my backend integration skills and improve the efficiency of my applications.
+- 👯 I’m looking to collaborate on open-source projects related to web development or creating reusable components for React ecosystems.
+- 🤔 I’m looking for help with contributing to large-scale open-source libraries and exploring best practices in scalable application architecture.
+- 💬 Ask me about modern frontend frameworks, building responsive designs with Tailwind CSS, or optimizing React applications for performance.
+- 📫 How to reach me: You can contact me at thiensinh127@gmail.com or connect with me on LinkedIn (add your LinkedIn profile link).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’m a tech enthusiast who loves solving complex coding challenges—and I can probably debug code faster than I can decide what to order for lunch!
 
 ### Blogs posts
 
